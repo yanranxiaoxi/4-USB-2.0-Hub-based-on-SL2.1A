@@ -2,6 +2,9 @@
 
 ⭐ 基于 SL2.1A 的 4×USB 2.0 集线器 ⭐
 
+[![pipeline status](https://gitlab.soraharu.com/XiaoXi/4-USB-2.0-Hub-based-on-SL2.1A/badges/master/pipeline.svg)](https://gitlab.soraharu.com/XiaoXi/4-USB-2.0-Hub-based-on-SL2.1A/-/commits/master)
+[![Latest Release](https://gitlab.soraharu.com/XiaoXi/4-USB-2.0-Hub-based-on-SL2.1A/-/badges/release.svg)](https://gitlab.soraharu.com/XiaoXi/4-USB-2.0-Hub-based-on-SL2.1A/-/releases)
+
 🔗 [GitLab (Homepage)](https://gitlab.soraharu.com/XiaoXi/4-USB-2.0-Hub-based-on-SL2.1A) | 🔗 [OSHWHub](https://oshwhub.com/yanranxiaoxi/4-USB-2-0-Hub-based-on-SL2-1A)
 
 ![实拍图](https://downloadserver.soraharu.com:7000/4%C3%97USB%202.0%20Hub%20based%20on%20SL2.1A/Image/Product_quality_5.jpg)
@@ -10,11 +13,15 @@
 
 这是一个基于 SL2.1A 的 4×USB 2.0 集线器，使用 [立创 EDA](https://lceda.cn/) 进行开发。
 
-由深圳 和芯润德(CoreChips) 研发的 SL2.1A 是一颗高集成度、高性能、低功耗的 USB2.0 集线器主控芯片。芯片可以使用外部晶振，也可以使用内置晶振，如需使用内置晶振，请短接本设计 `JUMP1` 跳板，建议焊接外部晶振以提升稳定性。
+由深圳 和芯润德(CoreChips) 研发的 SL2.1A 是一颗高集成度、高性能、低功耗的 USB2.0 集线器主控芯片。
+
+## 🍭 使用说明
+
+SL2.1A 芯片可以使用外部晶振，也可以使用内置晶振，如需使用内置晶振，请短接本设计 `JUMP1` 跳板，建议焊接外部晶振以提升稳定性。
 
 本 PCB 设计已通过完整功能性测试，且已添加 [嘉立创](https://www.jlc.com/) SMT 定位孔，可直接进行 SMT 贴片生产。但请注意，本设计完整开源并遵循 [GNU General Public License v3.0](https://choosealicense.com/licenses/gpl-3.0/) 开源协议，开源作者不对作品的安全性、完整性作任何承诺，且不对因此产生的任何损失承担后果。
 
-你可以使用本项目的 [焊接助手](https://htmlpreview.soraharu.com/?https://gitlab.soraharu.com/XiaoXi/4-USB-2.0-Hub-based-on-SL2.1A/-/raw/master/InteractiveHtmlBom/index.html) 有效地提升手工焊接效率，本助手通过 [InteractiveHtmlBom](https://gitlab.soraharu.com/XiaoXi/InteractiveHtmlBom) 自动生成。
+你可以使用本项目的 [焊接助手](https://interactivehtmlbom.soraharu.com/4-USB-2.0-Hub-based-on-SL2.1A.html) 有效地提升手工焊接效率，本助手通过 [InteractiveHtmlBom](https://gitlab.soraharu.com/XiaoXi/InteractiveHtmlBom) 流水线自动化生成。
 
 ## 🛠️ 生产电路板
 
