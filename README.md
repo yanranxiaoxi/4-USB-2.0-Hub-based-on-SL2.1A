@@ -4,8 +4,9 @@
 
 [![pipeline status](https://gitlab.soraharu.com/XiaoXi/4-USB-2.0-Hub-based-on-SL2.1A/badges/master/pipeline.svg)](https://gitlab.soraharu.com/XiaoXi/4-USB-2.0-Hub-based-on-SL2.1A/-/commits/master)
 [![Latest Release](https://gitlab.soraharu.com/XiaoXi/4-USB-2.0-Hub-based-on-SL2.1A/-/badges/release.svg)](https://gitlab.soraharu.com/XiaoXi/4-USB-2.0-Hub-based-on-SL2.1A/-/releases)
+[![vercel](https://vercelbadge.soraharu.com/?app=interactivehtmlbom)](https://interactivehtmlbom.soraharu.com/)
 
-🔗 [GitLab (Homepage)](https://gitlab.soraharu.com/XiaoXi/4-USB-2.0-Hub-based-on-SL2.1A) | 🔗 [OSHWHub](https://oshwhub.com/yanranxiaoxi/4-USB-2-0-Hub-based-on-SL2-1A)
+🔗 [GitLab (Homepage)](https://gitlab.soraharu.com/XiaoXi/4-USB-2.0-Hub-based-on-SL2.1A) | 🔗 [OSHWHub](https://oshwhub.com/yanranxiaoxi/4-USB-2-0-Hub-based-on-SL2-1A) | 🔗 [GitHub](https://github.com/yanranxiaoxi/4-USB-2.0-Hub-based-on-SL2.1A)
 
 ![实拍图](https://downloadserver.soraharu.com:7000/4%C3%97USB%202.0%20Hub%20based%20on%20SL2.1A/Image/Product_quality_5.jpg)
 
